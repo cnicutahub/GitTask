@@ -1,0 +1,3 @@
+//xFeature
+public class XFeatureClass {
+}
